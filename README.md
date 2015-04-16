@@ -4,7 +4,7 @@ SSOUP on AWS with Kubernetes
 Manual steps :
 
 - create an AWS account free tier
-- create an AWS T2.micro EC2instance with Ubuntu
+- create an AWS T2.micro EC2instance with Ubuntu. Take note of the ip address (172.31.55.229 in this example)
 - expose port 80
 - install Kubernetes as explained here: https://github.com/GoogleCloudPlatform/kubernetes/blob/master/docs/getting-started-guides/ubuntu_single_node.md
 - Run a test replicationContainer like this:
