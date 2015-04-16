@@ -1,7 +1,7 @@
 # aws-ssoup
 SSOUP on AWS with Kubernetes
 
-Manual steps :
+Manual steps to configure the instance:
 
 - create an AWS account free tier
 - create an AWS T2.micro EC2instance with Ubuntu. Take note of the public dns (ec2-52-4-195-214.compute-1.amazonaws.com in this example)
